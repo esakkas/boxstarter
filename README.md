@@ -1,2 +1,3 @@
 # boxstarter
-boxstarter files
+boxstarter files:
+   win10devbox: docker, go, perl, python
